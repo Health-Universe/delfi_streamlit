@@ -1,7 +1,7 @@
 streamlit
 deepchem==2.5.0
 matplotlib==3.7.2
-numpy==1.24.3
+numpy
 pandas
 rdkit==2023.3.2
 seaborn==0.12.2
